@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="49.9532mm" height="25.3998mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4995 2540"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="785" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="800">
+	<font-face 
+		font-family="Montserrat ExtraBold">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="O" horiz-adv-x="845"><path d="M422.998 -13.9956c224.003,0 389,153.994 389,363.991 0,210.008 -164.996,364.001 -389,364.001 -223.993,0 -389,-153.994 -389,-364.001 0,-209.997 165.007,-363.991 389,-363.991zm0 163.995c-106,0 -188.993,78.9992 -188.993,199.996 0,121.007 82.9935,200.006 188.993,200.006 106,0 189.004,-78.9992 189.004,-200.006 0,-120.997 -83.004,-199.996 -189.004,-199.996z"/></glyph>
+   <glyph unicode="-" horiz-adv-x="387"><path d="M48.0044 212l292 0 0 146.005 -292 0 0 -146.005z"/></glyph>
+   <glyph unicode="W" horiz-adv-x="1183"><path d="M978.996 700.001l-146.996 -451 -140.999 451 -182.006 0 -147.997 -447.005 -140.999 447.005 -204.001 0 227.007 -700.001 212 0 139.998 426.001 134.001 -426.001 212 0 226.996 700.001 -189.004 0z"/></glyph>
+   <glyph unicode="E" horiz-adv-x="671"><path d="M266.001 153.003l0 127.994 311.001 0 0 148.008 -311.001 0 0 117.993 352.999 0 0 153.003 -549 0 0 -700.001 562.005 0 0 153.003 -366.004 0z"/></glyph>
+   <glyph unicode=" " horiz-adv-x="290"></glyph>
+   <glyph unicode="." horiz-adv-x="282"><path d="M140.999 -9.00018c65.0036,0 113.999,47.0032 113.999,112.998 0,68.0071 -48.9952,112.007 -113.999,112.007 -64.0024,0 -113.999,-43.9997 -113.999,-112.007 0,-65.9943 49.9963,-112.998 113.999,-112.998z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Montserrat ExtraBold";src:url("#FontID0") format(svg)}
+    .fil0 {fill:#FEAD2A}
+    .fnt0 {font-weight:800;font-size:958.87px;font-family:'Montserrat ExtraBold'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="83" y="1606"  class="fil0 fnt0">W-O E. O.</text>
+ </g>
+</svg>
